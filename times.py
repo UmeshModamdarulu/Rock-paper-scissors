@@ -1,23 +1,4 @@
-# s='python is very easy and it is easy to slove is'
-# out={}
-# i=0
 
-# s=s.split()
-# while i<len(s):
-   
-#     if s.count(s[i])>1:
-#        out[s[i]]=str(s.count(s[i]))
-#     i+=1
-
-# # print(out)
-
-# def multi(s,out={},i=0):
-#     if i>len(s):
-#         return out
-#     if s.count(s[i])>1:
-#         out[s[i]]=s.count(s[i])
-#     return multi(s,out,i+1)
-# print(out)
 
 import random
 
